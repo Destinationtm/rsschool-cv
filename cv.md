@@ -8,13 +8,12 @@ ___
 ## About Me
 ___
 I want to learn frontend development.
-## Skils
+## Skills
 ___
 * HTML
 * Git
 * JavaScript
-## Code example
-___
+
 ## Education
 ___
 Belarusian State Academy of Communications:
