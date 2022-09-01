@@ -3,7 +3,7 @@
 * Location: Minsk, Belarus
 * Phone: +375 29 162-85-18
 * E-mail: tymanovich17@gmail.com 
-* GitHub: [Destinationtm](https://https://github.com/Destinationtm)
+* GitHub: [Destinationtm](https://github.com/Destinationtm)
 
 ## About Me
 I want to learn frontend development.
