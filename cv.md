@@ -13,7 +13,6 @@ I want to learn frontend development.
 * Git
 * JavaScript
 
-
 ## Education
 Belarusian State Academy of Communications:
 * Radio communication, broadcasting and television systems (Secondary special education)
